@@ -1,0 +1,1 @@
+Aula 1 da #imercaobackend aonde serão cinco aulas gratuitas para você mergulhar no desenvolvimento Back-end, criar um projeto com Node.js na prática e desvendar APIs e Servidores com o Google Gemini. 
